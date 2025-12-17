@@ -1,2 +1,6 @@
 Student notes
-modified my life
+<<<<<<< HEAD
+modified our life
+=======
+modified our life
+>>>>>>> feature/week1
